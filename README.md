@@ -70,7 +70,8 @@ Mobile menu available for small screens
 
 
 ## Contact
-
+```
 Email: suvithan.lk@gmail.com
 GitHub: https://github.com/suvithan-lk
 LinkedIn: linkedin.com/in/anantharasa-suvithan
+```
