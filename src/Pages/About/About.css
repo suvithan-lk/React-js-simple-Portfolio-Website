@@ -1,0 +1,10 @@
+.about {
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.my-pic{
+    border-radius: 100px;
+    border: solid 6px white;
+}
